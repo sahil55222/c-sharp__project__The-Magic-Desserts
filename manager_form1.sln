@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Magic Desserts", "manager_form1\The Magic Desserts.csproj", "{FE2C5C87-1256-43B4-9CF4-CE20ABF81EA5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "App Installer", "App Installer\App Installer.vdproj", "{0D66F132-2AB1-47E6-BF53-05F4D19F98B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE2C5C87-1256-43B4-9CF4-CE20ABF81EA5}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2C5C87-1256-43B4-9CF4-CE20ABF81EA5}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{FE2C5C87-1256-43B4-9CF4-CE20ABF81EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2C5C87-1256-43B4-9CF4-CE20ABF81EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D66F132-2AB1-47E6-BF53-05F4D19F98B1}.Debug|Any CPU.ActiveCfg = Debug
+		{0D66F132-2AB1-47E6-BF53-05F4D19F98B1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8DA5074-CA71-4155-BF6C-C103905BC1F2}
+	EndGlobalSection
+EndGlobal
